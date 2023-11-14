@@ -10,3 +10,6 @@ var myVar = "Hello!";
 ``` python
 var = "I'm so sleepy"
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
